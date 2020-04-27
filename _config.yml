@@ -4,3 +4,5 @@ kramdown:
     input: GFM
 highlighter: rouge
 url: https://marmelab.com/react-admin
+
+theme: jekyll-theme-cayman
